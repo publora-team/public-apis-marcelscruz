@@ -1763,6 +1763,7 @@
 | [Open Collective](https://docs.opencollective.com/help/developers/api) | Get Open Collective data | No | Unknown |
 | [Pinterest](https://developers.pinterest.com/) | The world's catalog of ideas | `OAuth` | Unknown |
 | [Product Hunt](https://api.producthunt.com/v2/docs) | The best new products in tech | `OAuth` | Unknown |
+| [Publora](https://publora.com) | Schedule and publish posts to 10 social networks from one endpoint, or from an AI agent over MCP | `apiKey` | Yes |
 | [Reddit](https://www.reddit.com/dev/api) | Homepage of the internet | `OAuth` | Unknown |
 | [Revolt](https://developers.revolt.chat) | Revolt open source Discord alternative | `apiKey` | Unknown |
 | [Signals](https://signals.sh) | Marketplace API to quote, place, and track Reddit and Quora promotion orders, with catalog and wallet endpoints | `apiKey` | No |
